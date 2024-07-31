@@ -1,0 +1,1 @@
+double humidity = 0, temperature = 0;
